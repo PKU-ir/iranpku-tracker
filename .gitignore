@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+
+# Local Flutter build state
+.last_build_id
+
+# Local planning notes (not part of the published site)
+.plans/
